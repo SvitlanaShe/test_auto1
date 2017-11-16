@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd">
+<suite name="SmokeTestsSuite">
+    <test verbose="1" name="auto1uismoke">
+        <packages>
+            <package name="tests.smoke" />
+        </packages>
+    </test>
+</suite>
